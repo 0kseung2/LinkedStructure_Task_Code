@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Lab03-1">
+      <UniqueIdentifier>{cafa8d80-44de-4dde-8493-47df687e1900}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Lab03-2">
+      <UniqueIdentifier>{444f815a-ee3b-4fc9-b061-6654c6440d1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Lab03-3">
+      <UniqueIdentifier>{568977f4-2403-4e08-95ba-ea3ed6f8b8b6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Lab03-1\DoubleStackType.h">
+      <Filter>소스 파일\Lab03-1</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lab03-2\CheckMatching.h">
+      <Filter>소스 파일\Lab03-2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lab03-2\StackType.h">
+      <Filter>소스 파일\Lab03-2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lab03-3\MazeExplorer.h">
+      <Filter>소스 파일\Lab03-3</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lab03-3\StackType.h">
+      <Filter>소스 파일\Lab03-3</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Lab03-1\Lab03_1.cpp">
+      <Filter>소스 파일\Lab03-1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lab03-2\CheckMatching.cpp">
+      <Filter>소스 파일\Lab03-2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lab03-2\Lab03_2.cpp">
+      <Filter>소스 파일\Lab03-2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lab03-3\MazeExplorer.cpp">
+      <Filter>소스 파일\Lab03-3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lab03-3\Lab02_3.cpp">
+      <Filter>소스 파일\Lab03-3</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

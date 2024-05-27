@@ -1,0 +1,3 @@
+C:\Users\user\Dropbox\KyungHee\teaching\2024-1 teaching\Data Structure\lab\Lab2(Week3)\code\lab2-solution\x64\Debug\Lab2.exe
+C:\Users\user\Dropbox\KyungHee\teaching\2024-1 teaching\Data Structure\lab\Lab2(Week3)\code\Lab2\x64\Debug\Lab2.exe
+C:\Users\user\Desktop\바탕화면\옥윤승 파일\옥윤승 2024-1학기 대학 파일\자료 구조\Lab2\x64\Debug\Lab2.exe
